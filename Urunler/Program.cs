@@ -39,6 +39,7 @@ internal class Program
 
 
         Products[] products = new Products[] { product1, product2, product3, product4 };
+
         Console.WriteLine("------WİTH FOREACH------");
         foreach (var product in products)
         {
